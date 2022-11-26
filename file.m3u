@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://39.134.115.163:8080/TVOD/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8?世界杯WorldCup
+#EXTINF:-1 ,CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://117.169.121.162:6610/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,华数_自然世界
+http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
+#EXTINF:-1 ,华数_社会真相
+http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8
+#EXTINF:-1 ,华数_欧美冒险
+http://hls-ott-zhibo.wasu.tv/live/156/index.m3u8
+#EXTINF:-1 ,华数_少林问道
+http://hls-ott-zhibo.wasu.tv/live/160/index.m3u8
+#EXTINF:-1 ,华数_浪漫爱情
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:-1 ,华数_睡前故事
+http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+#EXTINF:-1 ,华数_好莱坞大赏
+http://hls-ott-zhibo.wasu.tv/live/351/index.m3u8
+#EXTINF:-1 ,华数_热门网大
+http://hls-ott-zhibo.wasu.tv/live/363/index.m3u8
+#EXTINF:-1 ,华数_历史解密
+http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
+#EXTINF:-1 ,华数_科教人文
+http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
+#EXTINF:-1 ,华数_军事纪实
+http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
+#EXTINF:-1 ,轮播_动漫大电影
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 ,轮播_丧尸电影
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 ,轮播_惊悚大片
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:-1 ,轮播_亚洲电影3
+http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
+#EXTINF:-1 ,轮播_亚洲电影1
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 ,轮播_亚洲电影2
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="Undefined",上海纪实 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="Undefined",东南卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/eTi8T0z.png",东方卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="Undefined",云南卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="Undefined",内蒙古卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/8B6VP7D.png",北京卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="Undefined",北京紀實 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="Undefined",北京紀實 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="Undefined",吉林卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/f5Czssw.png",黑龙江卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anhui-satellite-tv-cn.png",安徽卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-international-cn.png",重庆卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/np4OFTK.png",山东卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://parco-zh.github.io/demo/TJWS.png",天津卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/NhI64I7.png",湖北卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch540_160_115",深圳卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg",广东卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/SLuM875.png",江苏卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch555_160_115",浙江卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://parco-zh.github.io/demo/HNWS.png",湖南卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g1l7umG.png",江西卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hainan-satellite-tv-cn.png",海南卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 group-title="Undefined",西藏卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
+#EXTINF:-1 group-title="Undefined",新疆卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ningxia-satellite-tv-cn.png",宁夏卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rfFM11N.png",青海卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1 group-title="Undefined",贵州卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="Undefined",陕西卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/JPxjmkC.png",山西卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/7Uc792e.png",广西卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hebei_tv_cn.png",河北卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/37pDN3r.png",四川卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/cy00So6.png",辽宁卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="Undefined",纯享4K (2160p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/512px-CCTV-17_Logo.png",CCTV-17农业农村 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV-4中文国际 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png",CCTV-11戏曲 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="Undefined",纪实人文 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="Undefined",旺苍新闻 (528p) [Not 24/7]
+http://3g.dzsm.com/streamer/gycttv.m3u8
+#EXTINF:-1 group-title="Undefined",靖江新闻綜合 (720p) [Not 24/7]
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",深州綜合頻道 (360p) [Not 24/7]
+http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
